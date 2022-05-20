@@ -7,7 +7,7 @@ module.exports = {
 	plugins: [require('daisyui')],
 	daisyui: {
 		themes: [
-			'dark' // default theme for all devices
+			'halloween' // default theme for all devices
 		],
 		log: false
 	}
